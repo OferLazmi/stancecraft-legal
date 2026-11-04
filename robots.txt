@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://oferlazmi.github.io/stancecraft-legal/sitemap.xml
